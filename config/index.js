@@ -28,7 +28,7 @@ var config = {
 
   registryPort: 7001,
   webPort: 7002,
-  bindingHost: '127.0.0.1', // only binding on 127.0.0.1 for local access
+  //bindingHost: '127.0.0.1', // only binding on 127.0.0.1 for local access
 
   // debug mode
   // if in debug mode, some middleware like limit wont load
@@ -67,9 +67,7 @@ var config = {
   // default system admins
   admins: {
     // name: email
-    fengmk2: 'fengmk2@gmail.com',
-    admin: 'admin@cnpmjs.org',
-    dead_horse: 'dead_horse@qq.com',
+    admin: 'a18124100815@163.com',
   },
 
   // email notification for errors
