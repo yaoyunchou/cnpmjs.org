@@ -67,7 +67,7 @@ var config = {
   // default system admins
   admins: {
     // name: email
-    admin: 'a18124100815@163.com',
+    admin: '18124100815@163.com',
   },
 
   // email notification for errors
